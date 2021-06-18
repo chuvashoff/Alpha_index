@@ -36,6 +36,7 @@ with open('Source_list', 'r') as f:
         if line_source == ['']:
             break
         sl_global_ai = {}
+        sl_global_ae = {}
         sl_global_fast = {}
         s_ai = ''
         '''Если есть файл аналогов'''
@@ -53,6 +54,21 @@ with open('Source_list', 'r') as f:
             '''В словаре sl_tmp_ai лежит индекс массива: алг имя (в том числе FAST|+)'''
             sl_tmp_ai = {value: key for key, value in sl_tmp_ai.items()}
 
+        '''Если есть файл расчётных'''
+        if os.path.isfile(os.path.join(line_source[1], '0_par_Evl.st')):
+            sl_tmp_ae = {}
+            with open(os.path.join(line_source[1], '0_par_Evl.st')) as f_par_evl:
+                text = f_par_evl.read().split('\n')
+            for i in text:
+                if 'AE_' in i:
+                    if ' ' in i:
+                        sl_tmp_ae[i[:i.find(' ')]] = int(i[i.rfind('[')+1:i.rfind(']')])
+                    else:
+                        sl_tmp_ae[i[:i.find('(')]] = int(i[i.rfind('(')+1:i.rfind(')')])
+            sl_tmp_ae = {key: value for key, value in sl_tmp_ae.items() if f'FAST|{key}' not in sl_tmp_ae}
+            '''В словаре sl_tmp_ae лежит индекс массива: алг имя (в том числе FAST|+)'''
+            sl_tmp_ae = {value: key for key, value in sl_tmp_ae.items()}
+
         '''Если есть глобальный словарь'''
         if os.path.isfile(os.path.join(line_source[1], 'global0.var')):
             with open(os.path.join(line_source[1], 'global0.var')) as f_global:
@@ -67,6 +83,13 @@ with open('Source_list', 'r') as f:
                         else:
                             sl_global_ai['Message.' + line[0][line[0].find('|') + 1:]] = [max(int(line[9]),
                                                                                               int(line[10])), line[1]]
+                    '''
+                    elif 'A_EVL' in line and len(line.split(',')) >= 10:
+                        line = line.split(',')
+                        if 'msg' not in line[0]:
+                            sl_global_ai
+                    '''
+
                     if 'FAST|' in line:
                         line = line.split(',')
                         '''В словаре sl_global_fast лежит  алг имя(FAST|): индекс переменной'''
@@ -95,10 +118,10 @@ with open('Source_list', 'r') as f:
 
 
 
-'''
-for key, value in sl_global_ai.items():
+
+for key, value in sl_tmp_ae.items():
     print(key, value)
-'''
+
 
 # print(s_ai)
 print(datetime.datetime.now())
