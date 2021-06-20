@@ -1,6 +1,7 @@
 import datetime
 import os
 import re
+import logging
 from string import Template
 
 
@@ -240,8 +241,14 @@ def create_index():
                 f_out.write('<root format-version=\"0\">\n' + s_all.rstrip() + '\n</root>')
 
 
-print(datetime.datetime.now())
-create_index()
+try:
+    print(datetime.datetime.now())
+    create_index()
+except (BaseException, KeyError):
+    logging.basicConfig(filename='app.log', filemode='a', datefmt='%d.%m.%y %H:%M:%S',
+                        format='%(levelname)s - %(message)s - %(asctime)s')
+    logging.exception("Ошибка выполнения")
+
 print(datetime.datetime.now())
 '''
 for key, value in sl_tmp_ae.items():
