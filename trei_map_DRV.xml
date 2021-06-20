@@ -10331,4 +10331,34 @@
     <index>2935</index>
     <category>DataCategory_DRV_NoArcDiscrete</category>
   </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ResetFG.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>299</index>
+    <category>DataCategory_DRV_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ResetFG.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>300</index>
+    <category>DataCategory_DRV_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ResetFG.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>302</index>
+    <category>DataCategory_DRV_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ResetFG.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>304</index>
+    <category>DataCategory_DRV_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ResetFG.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>305</index>
+    <category>DataCategory_DRV_NoArcDiscrete</category>
+  </item>
 </root>

@@ -29059,4 +29059,1644 @@
     <index>4777</index>
     <category>DataCategory_GTU_NoArcDiscrete</category>
   </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4781</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4782</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4783</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.qbiDu</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5622</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.qbiDu</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5623</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.qbiDu</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5624</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4787</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4788</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4789</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.qbiOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5625</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.qbiOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5626</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.qbiOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5627</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4790</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4791</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4792</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.qboOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5628</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.qboOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5629</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.qboOn</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5630</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4802</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4803</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4804</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4808</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4809</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4810</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4811</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4812</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4813</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4814</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4815</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4816</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4817</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4818</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4819</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4820</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4821</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4822</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.coRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4823</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.coRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4824</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.coRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4825</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5631</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5632</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5633</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.sTOn_Off</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5640</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.sTOn_Off</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5641</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.sTOn_Off</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5642</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4862</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4863</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_fwsDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4864</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_qbiDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4865</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_qbiDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4866</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_qbiDu</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4867</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4868</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4869</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_fwsOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4870</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_qbiOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4871</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_qbiOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4872</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_qbiOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4873</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4874</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4875</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_fwcOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4876</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Message.msg_qboOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4877</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Message.msg_qboOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4878</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Message.msg_qboOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4879</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4880</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4881</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4882</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5643</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5644</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>5645</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4883</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4884</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4885</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wbcaOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4892</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wbcaOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4893</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wbcaOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4894</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wbcaOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4895</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wbcaOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4896</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wbcaOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4897</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wMU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4898</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wMU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4899</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wMU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4900</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4901</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4902</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4903</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4904</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4905</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6789</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4907</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4908</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4909</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.stOng</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4910</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.stOng</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4911</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.stOng</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4912</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.stOffg</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4913</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.stOffg</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4914</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.stOffg</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4915</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.pcoOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4916</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.pcoOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4917</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.pcoOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4918</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.pcoOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4919</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.pcoOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4920</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.pcoOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4921</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4922</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4923</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4924</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.pcoRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4925</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.pcoRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4926</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.pcoRst</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4927</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.oOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4940</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.oOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4941</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.oOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6788</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.oOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4943</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.oOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4944</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.oOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4945</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wNotOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4946</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wNotOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4947</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wNotOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4948</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPV.wNotOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4949</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.KPG.wNotOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4950</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.SK.wNotOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>4951</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6272</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6273</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.coMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6274</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6275</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6276</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.coRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6277</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.coSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6798</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.coSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6799</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.coSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6800</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6278</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6279</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.coUpdRepair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6280</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6281</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6282</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.fFlt</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6283</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.fPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6284</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.fPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6285</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.fPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6286</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.fSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6287</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.fSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6288</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.fSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6289</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.ifOut</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6293</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.ifOut</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6294</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.ifOut</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6295</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.ifPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6296</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.ifPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6297</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.ifPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6298</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.iPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6801</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.iPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6802</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.iPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6803</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.Out</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6804</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.Out</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6805</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.Out</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6806</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6299</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6300</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6301</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6302</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6303</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.pMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6304</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.qbiPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6807</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.qbiPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6808</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.qbiPos</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6809</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.qboSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6810</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.qboSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6811</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.qboSet</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6812</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6305</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6306</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.Repair</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6307</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.Set</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>7125</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.Set</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>7126</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.Set</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6815</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.sHighiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6816</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.sHighiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6817</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.sHighiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6818</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.sHighLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6819</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.sHighLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6820</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.sHighLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6821</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.sLowiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6822</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.sLowiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6823</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.sLowiValue</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6824</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.sLowLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6825</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.sLowLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6826</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.sLowLim</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6827</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6311</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6312</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.stOff</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6313</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6314</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6315</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.stOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6316</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6828</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6829</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.sTRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6830</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.stWay</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6317</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.stWay</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6318</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.stWay</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6319</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6831</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6832</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.TRepair</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>6833</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6320</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6321</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.wRU</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6322</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.Message.msgqbiPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6338</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.Message.msgqbiPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6339</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.Message.msgqbiPos</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6340</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.Kr_160_6p.Message.msgqboSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6341</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.DG.Message.msgqboSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6342</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>IM.VNA.Message.msgqboSet</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6343</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_UpdateTun.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6059</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_ON.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6060</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_OFF.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6061</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_ON.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6062</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_OFF.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6063</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnDown.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6064</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnUp.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6065</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ReadTun.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6066</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_ON.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6067</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_OFF.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6068</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Check_Vibr.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6069</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_BZD_UNLOCK.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6070</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_CheckBZD.pBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6071</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_UpdateTun.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6072</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_ON.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6073</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_OFF.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6074</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_ON.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6075</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_OFF.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6076</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnDown.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6077</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnUp.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6078</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ReadTun.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6079</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_ON.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6080</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_OFF.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6081</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Check_Vibr.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6082</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_BZD_UNLOCK.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6083</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_CheckBZD.caLhBTN</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6084</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_UpdateTun.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6098</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_ON.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6099</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_OFF.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6100</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_ON.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6101</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_OFF.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6102</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnDown.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6103</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnUp.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6104</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ReadTun.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6105</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_ON.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6106</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_OFF.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6107</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Check_Vibr.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6108</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_BZD_UNLOCK.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6109</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_CheckBZD.pcoMan</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6110</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_UpdateTun.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6124</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_ON.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6125</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_OFF.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6126</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_ON.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6127</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_OFF.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6128</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnDown.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6129</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnUp.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6130</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ReadTun.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6131</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_ON.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6132</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_OFF.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6133</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Check_Vibr.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6134</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_BZD_UNLOCK.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6135</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_CheckBZD.coOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6136</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_UpdateTun.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6137</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_ON.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6138</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Stab_OFF.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6139</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_ON.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6140</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_MaxReg_OFF.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6141</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnDown.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6142</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_TurnUp.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6143</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_ReadTun.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6144</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_ON.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6145</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_POS_OFF.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6146</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_Check_Vibr.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6147</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_BZD_UNLOCK.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6148</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.BTN.BTN_CheckBZD.ceOn</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6149</index>
+    <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
 </root>
