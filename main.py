@@ -22,12 +22,26 @@ def create_sl(text, str_check):
 
 def create_sl_im(text):
     sl_tmp = {}
+    cnt_set = set()
     for i in text:
         if 'IM|' in i and '//' not in i and '[' in i:
             a = i.split(':=')[0].strip()
             sl_tmp[int(i[i.rfind('[') + 1:i.rfind(']')])] = a[a.find('|')+1:a.rfind('_')]
-    '''В словаре sl_tmp лежит индекс массива: алг имя'''
-    return sl_tmp
+        if 'IM|' in i and '//' not in i and ('WorkTime' in i or 'Swap' in i) and 'TCycle' not in i:
+            aa = i.split(':=')[0].strip()
+            cnt_set.add(aa[aa.find('|')+1:])
+    '''В словаре sl_tmp лежит индекс массива: алг имя; в cnt_set лежат используемые наработки'''
+    return sl_tmp, cnt_set
+
+
+def create_sl_pz(text):
+    tmp_set = set()
+    for i in text:
+        if 'FAST|ALR_' in i and '//' not in i:
+            a = i.split(':=')[0].strip()
+            tmp_set.add(a[a.find('_') + 1:])
+    '''в множестве tmp_set лежат используемые аварии'''
+    return tmp_set
 
 
 def create_group_par(sl_global_par, sl_local_par, sl_global_fast, template_arc_index, template_no_arc_index,
@@ -123,6 +137,43 @@ def create_group_btn(sl_global_btn, sl_local_btn, template_no_arc_index, source)
     return s_out
 
 
+def create_group_cnt(sl_global_cnt, template_no_arc_index, source):
+    sl_data_cat = {
+        'R': 'Analog',
+        'I': 'Analog',
+        'B': 'Discrete'
+    }
+    sl_type = {
+        'R': 'Analog',
+        'I': 'Analog',
+        'B': 'Bool'
+    }
+    s_out = ''
+    for key, value in sl_global_cnt.items():
+        a = key
+        pref_arc = f'NoArc{sl_data_cat[value[1]]}'
+        s_out += Template(template_no_arc_index).substitute(name_signal=f'System.CNT.{a}.Value',
+                                                            type_signal=sl_type[value[1]], index=value[0],
+                                                            data_category=f'DataCategory_{source}_{pref_arc}')
+    return s_out
+
+
+def create_group_alr(sl_global_alr, template_arc_index, source):
+    sl_type = {
+        'R': 'Analog',
+        'I': 'Analog',
+        'B': 'Bool'
+    }
+    s_out = ''
+    for key, value in sl_global_alr.items():
+        a = key
+        pref_arc = 'Arc'  # для проекта Бованенково убрать '.Value'
+        s_out += Template(template_arc_index).substitute(name_signal=f'System.ALR.{a}.Value',
+                                                         type_signal=sl_type[value[1]], index=value[0],
+                                                         data_category=f'DataCategory_{source}_{pref_arc}')
+    return s_out
+
+
 def create_index():
     # Считываем шаблоны для карты
     with open(os.path.join(os.path.dirname(__file__), 'Template', 'Temp_map_index_Arc'), 'r', encoding='UTF-8') as f:
@@ -181,6 +232,11 @@ def create_index():
             sl_global_im2x2, sl_tmp_im2x2 = {}, {}
             sl_global_im_ao, sl_tmp_im_ao = {}, {}
             sl_global_btn, sl_tmp_btn = {}, {}
+            sl_global_cnt = {}
+            set_all_im = set()  # sl_all_im - для ИМ с наработками
+            set_cnt_im1x0, set_cnt_im1x1, set_cnt_im1x2, set_cnt_im2x2 = set(), set(), set(), set()
+            sl_global_alr = {}
+            set_tmp_alr = set()
             sl_global_fast = {}
             s_all = ''
             '''Если есть файл аналогов'''
@@ -205,25 +261,25 @@ def create_index():
             if os.path.isfile(os.path.join(line_source[1], '0_IM_1x0.st')):
                 with open(os.path.join(line_source[1], '0_IM_1x0.st')) as f_im:
                     text = f_im.read().split('\n')
-                sl_tmp_im1x0 = create_sl_im(text)
+                sl_tmp_im1x0, set_cnt_im1x0 = create_sl_im(text)
 
             '''Если есть файл ИМ_1x1'''
             if os.path.isfile(os.path.join(line_source[1], '0_IM_1x1.st')):
                 with open(os.path.join(line_source[1], '0_IM_1x1.st')) as f_im:
                     text = f_im.read().split('\n')
-                sl_tmp_im1x1 = create_sl_im(text)
+                sl_tmp_im1x1, set_cnt_im1x1 = create_sl_im(text)
 
             '''Если есть файл ИМ_1x2'''
             if os.path.isfile(os.path.join(line_source[1], '0_IM_1x2.st')):
                 with open(os.path.join(line_source[1], '0_IM_1x2.st')) as f_im:
                     text = f_im.read().split('\n')
-                sl_tmp_im1x2 = create_sl_im(text)
+                sl_tmp_im1x2, set_cnt_im1x2 = create_sl_im(text)
 
             '''Если есть файл ИМ_2x2'''
             if os.path.isfile(os.path.join(line_source[1], '0_IM_2x2.st')):
                 with open(os.path.join(line_source[1], '0_IM_2x2.st')) as f_im:
                     text = f_im.read().split('\n')
-                sl_tmp_im2x2 = create_sl_im(text)
+                sl_tmp_im2x2, set_cnt_im2x2 = create_sl_im(text)
 
             '''Если есть файл ИМ_АО'''
             if os.path.isfile(os.path.join(line_source[1], '0_IM_AO.st')):
@@ -239,6 +295,12 @@ def create_index():
                     if 'BTN_' in i and '(' in i:
                         a = i.split(',')[0]
                         sl_tmp_btn[int(a[a.find('(')+1:])] = a[:a.find('(')]
+
+            '''Если есть файл защит PZ'''
+            if os.path.isfile(os.path.join(line_source[1], '0_PZ.st')):
+                with open(os.path.join(line_source[1], '0_PZ.st')) as f_pz:
+                    text = f_pz.read().split('\n')
+                set_tmp_alr = create_sl_pz(text)
 
             '''Если есть глобальный словарь'''
             if os.path.isfile(os.path.join(line_source[1], 'global0.var')):
@@ -325,6 +387,14 @@ def create_index():
                             sl_global_btn[line[0][line[0].find('|')+1:]] = [max(int(line[9]), int(line[10])),
                                                                             line[1]]
 
+                        elif 'IM|' in line and len(line.split(',')) >= 10 and 'WorkTime' in line or 'Swap' in line:
+                            line = line.split(',')
+                            sl_global_cnt[line[0][line[0].find('|')+1:]] = [max(int(line[9]), int(line[10])),
+                                                                            line[1]]
+                        elif 'FAST|ALR_' in line and len(line.split(',')) >= 10:
+                            line = line.split(',')
+                            sl_global_alr[line[0][line[0].find('_')+1:]] = [max(int(line[9]), int(line[10])), line[1]]
+
                         if 'FAST|' in line:
                             line = line.split(',')
                             '''В словаре sl_global_fast лежит  алг имя(FAST|): индекс переменной'''
@@ -340,6 +410,13 @@ def create_index():
             sl_global_im_ao = {key: value for key, value in sl_global_im_ao.items() if key[:key.find('[')] in lst_im_ao}
             sl_global_btn = {key: value for key, value in sl_global_btn.items() if key[:key.find('[')] in lst_btn}
 
+            '''Объединяем множества ИМ в одно для накопления наработок'''
+            for jj in [set_cnt_im1x0, set_cnt_im1x1, set_cnt_im1x2, set_cnt_im2x2]:
+                set_all_im.update(jj)
+            sl_global_cnt = {key: value for key, value in sl_global_cnt.items() if key in set_all_im}
+
+            sl_global_alr = {key: value for key, value in sl_global_alr.items() if key in set_tmp_alr}
+
             '''Обработка и запись в карту аналогов'''
 
             if sl_global_ai and sl_tmp_ai:
@@ -353,38 +430,54 @@ def create_index():
                                           'AE', line_source[0])
 
             '''Обработка и запись в карту дискретных'''
+
             if sl_global_di and sl_tmp_di:
                 s_all += create_group_par(sl_global_di, sl_tmp_di, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                           'DI', line_source[0])
 
             '''Обработка и запись в карту ИМ1x0'''
+
             if sl_global_im1x0 and sl_tmp_im1x0:
                 s_all += create_group_im(sl_global_im1x0, sl_tmp_im1x0, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                          line_source[0])
 
             '''Обработка и запись в карту ИМ1x1'''
+
             if sl_global_im1x1 and sl_tmp_im1x1:
                 s_all += create_group_im(sl_global_im1x1, sl_tmp_im1x1, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                          line_source[0])
 
             '''Обработка и запись в карту ИМ1x2'''
+
             if sl_global_im1x2 and sl_tmp_im1x2:
                 s_all += create_group_im(sl_global_im1x2, sl_tmp_im1x2, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                          line_source[0])
 
             '''Обработка и запись в карту ИМ2x2'''
+
             if sl_global_im2x2 and sl_tmp_im2x2:
                 s_all += create_group_im(sl_global_im2x2, sl_tmp_im2x2, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                          line_source[0])
 
             '''Обработка и запись в карту ИМ_АО'''
+
             if sl_global_im_ao and sl_tmp_im_ao:
                 s_all += create_group_im(sl_global_im_ao, sl_tmp_im_ao, sl_global_fast, tmp_ind_arc, tmp_ind_no_arc,
                                          line_source[0])
 
             '''Обработка и запись в карту кнопок'''
+
             if sl_global_btn and sl_tmp_btn:
                 s_all += create_group_btn(sl_global_btn, sl_tmp_btn, tmp_ind_no_arc, line_source[0])
+
+            '''Обработка и запись в карту наработок'''
+
+            if sl_global_cnt:
+                s_all += create_group_cnt(sl_global_cnt, tmp_ind_no_arc, line_source[0])
+
+            '''Обработка и запись в карту ALR'''
+            if sl_global_alr:
+                s_all += create_group_alr(sl_global_alr, tmp_ind_arc, line_source[0])
 
             with open(f'trei_map_{line_source[0]}.xml', 'w') as f_out:
                 f_out.write('<root format-version=\"0\">\n' + s_all.rstrip() + '\n</root>')

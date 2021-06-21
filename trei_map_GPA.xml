@@ -87310,2270 +87310,6 @@
     <category>DataCategory_GPA_NoArcDiscrete</category>
   </item>
   <item Binding="Introduced">
-    <node-path>IM.KV1.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20203</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20204</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20205</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20206</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20207</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20208</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20209</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20210</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20211</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20212</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20213</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20214</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20215</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20218</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20219</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20220</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20221</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20222</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20223</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20224</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20225</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20226</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20227</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20228</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20229</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20230</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7834</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7835</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7836</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7837</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7838</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7839</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7840</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7841</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7842</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7843</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7844</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7845</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7846</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20233</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20234</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20235</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20236</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20237</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20238</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20239</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20240</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20241</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20242</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20243</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20244</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20245</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20248</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20249</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20250</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20251</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20252</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20253</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20254</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20255</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20256</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20257</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20258</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20259</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20260</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20263</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20264</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20265</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20266</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20267</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20268</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20269</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20270</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20271</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20272</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20273</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20274</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20275</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20278</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20279</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20280</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20281</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20282</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20283</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20284</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20285</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20286</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20287</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20288</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20289</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20290</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20308</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20309</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20310</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20311</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20312</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20313</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20314</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20315</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20316</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20317</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20318</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20319</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20320</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20323</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20324</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20325</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20326</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20327</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20328</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20329</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20330</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20331</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20332</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20333</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20334</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20335</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7849</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7850</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7851</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7852</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7853</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7854</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7855</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7856</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7857</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7858</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7859</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7860</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7861</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7864</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7865</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7866</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7867</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7868</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>10228</index>
-    <buffer-length>50</buffer-length>
-    <archivation-period>1</archivation-period>
-    <category>DataCategory_GPA_Arc</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7870</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7871</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7872</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7873</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7874</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7875</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7876</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20338</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20339</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20340</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20341</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20342</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20343</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20344</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20345</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20346</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20347</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20348</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20349</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20350</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20353</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20354</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20355</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20356</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20357</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20358</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20359</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20360</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20361</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20362</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20363</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20364</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20365</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7879</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7880</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7881</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7882</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7883</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7884</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7885</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7886</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7887</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7888</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7889</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7890</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7891</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7894</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7895</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7896</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7897</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7898</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7899</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7900</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7901</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7902</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7903</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7904</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7905</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7906</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20368</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20369</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20370</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20371</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20372</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20373</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20374</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20375</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20376</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20377</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20378</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20379</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20380</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7909</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7910</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7911</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7912</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7913</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7914</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7915</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7916</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7917</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7918</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7919</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7920</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7921</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7924</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7925</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7926</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7927</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7928</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7929</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7930</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7931</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7932</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7933</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7934</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7935</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7936</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7939</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7940</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7941</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7942</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7943</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7944</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7945</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7946</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7947</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7948</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7949</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7950</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7951</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7954</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7955</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7956</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7957</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7958</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7959</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7960</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7961</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7962</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7963</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7964</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7965</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7966</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7969</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7970</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7971</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7972</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7973</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7974</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7975</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7976</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7977</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7978</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7979</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7980</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7981</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20398</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20399</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20400</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20401</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20402</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20403</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20404</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20405</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20406</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20407</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20408</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20409</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20410</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20413</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20414</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20415</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20416</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20417</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20418</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20419</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20420</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20421</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20422</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20423</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20424</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20425</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7984</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7985</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7986</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7987</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7988</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7989</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7990</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7991</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7992</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7993</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7994</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7995</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7996</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20428</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20429</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20430</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20431</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20432</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20433</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20434</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20435</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20436</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20437</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20438</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20439</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20440</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7999</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8000</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8001</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8002</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8003</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8004</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8005</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8006</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8007</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8008</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8009</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8010</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>8011</index>
-    <category>DataCategory_GPA_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20443</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20444</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20445</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20446</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20447</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20448</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20449</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20450</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20451</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20452</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20453</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20454</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20455</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20533</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20534</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20535</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20536</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20537</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20538</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20539</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20540</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20541</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20542</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20543</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20544</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20545</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV1.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20548</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV2.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20549</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KV4.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20550</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Ta.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20551</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.T_KST.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20552</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.KlGGa.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20553</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD1.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20554</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD2.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20555</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON1.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20556</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VMON2.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20557</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_VOD3.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20558</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV1.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20559</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.AO_KBV2.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>20560</index>
-    <category>DataCategory_GPA_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
     <node-path>System.BTN.BTN_UNLOCK.pBTN</node-path>
     <protocoltype>Bool</protocoltype>
     <index>11594</index>
@@ -90832,5 +88568,989 @@
     <protocoltype>Bool</protocoltype>
     <index>11887</index>
     <category>DataCategory_GPA_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_KST_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8609</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VnOD_OF_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8611</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VnA_OF_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8612</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.IPTV_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8617</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.TIPTV_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8618</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KlGG_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8630</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.ZsBUT_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8631</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_UTO_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10379</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_MB_GTD_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10380</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_BG1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10381</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_BG2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10382</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_BG3_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10383</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_MBN1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10384</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_MBN2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10385</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_MBN3_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10386</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VNMON1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>10389</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VNMON2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22264</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Nsm_GTD_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22265</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Nm_CBN_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22269</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.V11_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22270</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.V12_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22271</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_TrMsGTD1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22272</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_TrMsGTD2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22273</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_TmsCBK_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22274</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_AVGM_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22275</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_TrBg_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22276</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_Kr_A_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22278</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.K1_N_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22279</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.K2_N_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22280</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_VUTO_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22281</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_DrK_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22282</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_DrT_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22283</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_TinAngar_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22284</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KBV1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22285</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KBV2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22286</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VzgA_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22287</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.MNDE_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22288</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VOD1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22289</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VOD2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22632</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VOD3_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22633</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VMON1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22634</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VMON2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22635</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VOT1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22636</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.VOT2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22637</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.PNS_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>22638</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Vn_UTO_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8603</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.PE1_KOA_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8608</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.PE2_KOA_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8610</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.SK2_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8613</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_MOCBN_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8614</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_OilAcc_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8615</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.V2_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8621</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EN_BK_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8622</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK1_BET_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8623</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK2_BET_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8624</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK3_BET_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8625</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK1_BSAU_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8626</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK2_BSAU_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8629</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.EK3_BSAU_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>20770</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KP7_AVGM_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>20789</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kl_inSGU_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23209</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr1_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23212</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr2_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23213</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr4_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23214</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr5_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23215</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr6_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23216</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr9_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23217</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr12_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23218</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr13_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23219</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr14_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23220</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr15_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23221</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr16_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23222</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr18_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23223</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_aftN1_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23224</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_Pm_inMGTU_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23225</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_Pm_inGTU_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23226</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Kr_Pm_inMNDE_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23227</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KlGGprm_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>8602</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KV5_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23210</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.KV6_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>23211</index>
+    <category>DataCategory_GPA_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.BZD_AO.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28932</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vmbd_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28933</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vmbd_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28934</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.T_OP_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28935</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.T_OUP_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28936</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.T_rk_OUP_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28937</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.T_uk_OUP_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28938</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vp_Pogor_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28939</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vp_Povert_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28940</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vm_Zogor_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28941</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vm_Zovert_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28942</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.OSRn1_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28943</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.OSRnt2_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28944</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Vmbn_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28945</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Pmsn_1_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28946</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.P_out1SGU_vsas_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28947</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.P_out1SGU_vsas_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28948</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.P_out1SGU_nagn_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28949</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.P_out1SGU_nagn_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28950</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Pbv_inSGU_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28951</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.MSGUvsas_crs.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28952</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.MSGUnagn_crs.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28953</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Pvot_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28954</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.IBPpwr_flt.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28955</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AO_ButtonBlockSAU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28956</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AO_PRU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28957</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NO_PRU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28958</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.CO_AOss.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28960</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.CO_AObs.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28961</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.PRU_AOss.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28962</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.PRU_AObs.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28963</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Fire_OD.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28964</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Fire_A.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28965</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Fire_ET.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28966</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Fire_SAU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28967</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Fire_AVGM.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28968</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Zag_20_OD.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28969</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Zag_20_A.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28970</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr1_wnotOn.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28971</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr2_wnotOn.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28972</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NolinkGTU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28973</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.EO_ON.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28974</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AOss_fromKC.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28975</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AObs_fromKC.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28976</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NolinkUVDNKU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28977</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NolinkUVDNKUAVO.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28978</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.PRU_NOss.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28979</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.PRU_NObs.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28980</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Pmsn_2_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>28982</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NOss_PRU.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>29261</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NOss_ARM.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>29262</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.VOss_fromKC.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>29311</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.dP_1SGU_nagn_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50807</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.dP_1SGU_vsas_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50808</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Zag_20_AVGM.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50809</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr6_wnotOn.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50810</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr5_wnotOff.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50811</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr13_wnotOn.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50812</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Kr14_wnotOff.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>50813</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Brk_Volt12.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>51010</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Brk_Volt125.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>51011</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Brk_Volt46.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>51012</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Brk_Volt3.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>51013</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GPA_Arc</category>
   </item>
 </root>

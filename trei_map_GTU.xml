@@ -29784,532 +29784,6 @@
     <category>DataCategory_GTU_NoArcDiscrete</category>
   </item>
   <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6272</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6273</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.coMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6274</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6275</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6276</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.coRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6277</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6798</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6799</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.coSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6800</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6278</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6279</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.coUpdRepair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6280</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6281</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6282</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.fFlt</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6283</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6284</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6285</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.fPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6286</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6287</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6288</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.fSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6289</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6293</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6294</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.ifOut</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6295</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6296</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6297</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.ifPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6298</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6801</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6802</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.iPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6803</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6804</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6805</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.Out</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6806</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6299</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6300</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.pcoMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6301</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6302</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6303</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.pMan</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6304</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6807</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6808</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.qbiPos</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6809</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6810</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6811</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.qboSet</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6812</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6305</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6306</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.Repair</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6307</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7125</index>
-    <buffer-length>50</buffer-length>
-    <archivation-period>1</archivation-period>
-    <category>DataCategory_GTU_Arc</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>7126</index>
-    <buffer-length>50</buffer-length>
-    <archivation-period>1</archivation-period>
-    <category>DataCategory_GTU_Arc</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.Set</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6815</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6816</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6817</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.sHighiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6818</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6819</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6820</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.sHighLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6821</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6822</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6823</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.sLowiValue</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6824</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6825</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6826</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.sLowLim</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6827</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6311</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6312</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.stOff</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6313</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6314</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6315</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.stOn</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6316</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6828</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6829</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.sTRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6830</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6317</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6318</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.stWay</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6319</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6831</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6832</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.TRepair</node-path>
-    <protocoltype>Analog</protocoltype>
-    <index>6833</index>
-    <category>DataCategory_GTU_NoArcAnalog</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6320</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6321</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.wRU</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6322</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6338</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6339</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.Message.msgqbiPos</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6340</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.Kr_160_6p.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6341</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.DG.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6342</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
-    <node-path>IM.VNA.Message.msgqboSet</node-path>
-    <protocoltype>Bool</protocoltype>
-    <index>6343</index>
-    <category>DataCategory_GTU_NoArcDiscrete</category>
-  </item>
-  <item Binding="Introduced">
     <node-path>System.BTN.BTN_UpdateTun.pBTN</node-path>
     <protocoltype>Bool</protocoltype>
     <index>6059</index>
@@ -30698,5 +30172,689 @@
     <protocoltype>Bool</protocoltype>
     <index>6149</index>
     <category>DataCategory_GTU_NoArcDiscrete</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.Starter1_WorkTime.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>4125</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.CNT.SK_Swap.Value</node-path>
+    <protocoltype>Analog</protocoltype>
+    <index>4124</index>
+    <category>DataCategory_GTU_NoArcAnalog</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NggHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6790</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NggLim.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6791</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NvdDistort.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6792</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6793</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NggLow.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6794</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NstHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6795</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NstLim.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6796</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NstDistort.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6797</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_NstBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6798</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TstHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6799</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TstHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6800</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TstBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6801</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TstBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6802</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_Ttzap.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6803</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TtvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6804</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TvhBrkzap.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6805</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TvhBrkRezhim.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6806</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmvhDmin.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6807</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmspKvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6808</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmspKvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6809</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Tm_outSPK_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6810</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmspKvdMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6811</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmspKvdMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6812</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmrpTvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6813</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmrpTvdBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6814</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmrpTvdMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6815</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmrpTvdMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6816</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Tm_outRPT_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6817</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmoutStBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6818</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmoutStBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6819</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_TmopStMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6820</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_TmopStMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6821</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Tm_out_ST_aL.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6822</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_PkBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6823</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.FailStarter.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6824</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PtgMin.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6825</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_PtgHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6826</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PtgMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6827</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_Ptg_inDGSKbrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6828</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PmvhDno.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6829</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_PmvhDmin.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6830</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PmvhDmin.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6831</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PmvhDBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6832</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_PmvhDBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6833</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_PsufMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6834</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_VibPpBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6835</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_VibPpMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6836</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_RateVibPpMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6837</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_VibZpBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6838</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_VibZpMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6839</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_RateVibZpMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6840</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_osSTHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6841</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_VNABrk_Pos.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6842</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_VNABrk_Neg.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6843</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_SetVNABrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6844</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_VNABrkDop.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6845</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_SKIMBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6846</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_KPVIMBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6847</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_KPGIMBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6848</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_DozBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6849</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_DozBrkDop.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6850</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_DozPolBrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6851</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_UTtgKS.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6852</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_UTtgKSno.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6853</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_VibDMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6854</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_StrFS.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6855</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_StrKP.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6856</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_StrRPT.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6857</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.TimeZapHigh.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6858</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AOssTR.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6859</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.AObsTR.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6860</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.VObsTR.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6861</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.notRate.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6862</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_STbrk.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6863</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_ObRaskrST.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6864</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.N_deltaPvxMax.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6865</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_Pogas.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6866</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_PompazZap.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6867</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_Pogas_roz.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6868</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.aSurge.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6869</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.Pg_outN_aH.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6870</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.APK_notOn.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6871</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.NolinkGPA.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6872</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
+  </item>
+  <item Binding="Introduced">
+    <node-path>System.ALR.A_notFire.Value</node-path>
+    <protocoltype>Bool</protocoltype>
+    <index>6877</index>
+    <buffer-length>50</buffer-length>
+    <archivation-period>1</archivation-period>
+    <category>DataCategory_GTU_Arc</category>
   </item>
 </root>
